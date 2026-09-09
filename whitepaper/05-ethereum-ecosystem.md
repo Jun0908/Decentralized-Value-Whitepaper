@@ -2,7 +2,7 @@
 
 Ethereum is not the evaluator in Value Decentralization. The blockchain does not make an offchain calculation correct by itself. Its role is to make the selected result and final allocation difficult to rewrite after the fact, while allowing anyone to inspect the reward event.
 
-![Offchain evaluation and onchain settlement](.gitbook/assets/evidence-settlement-boundary.png)
+<figure><img src=".gitbook/assets/evidence-settlement-boundary.png" alt="Diagram separating offchain evaluation and evidence generation from onchain commitments, allocation, and reward settlement"><figcaption><p>Offchain evaluation and onchain settlement</p></figcaption></figure>
 
 ## 5.1 Why evaluation is offchain
 

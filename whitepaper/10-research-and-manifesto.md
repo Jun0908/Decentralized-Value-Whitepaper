@@ -26,7 +26,7 @@ Value Decentralization is not complete when a single score is replaced by a Pare
 
 Value Decentralization is not about adding important values to a list. It is about creating a cycle in which sustained supply and learning can develop around those values.
 
-![Value-to-industry flywheel](.gitbook/assets/value-to-industry-flywheel.png)
+<figure><img src=".gitbook/assets/value-to-industry-flywheel.png" alt="Circular flywheel connecting value, metrics, evidence, capital, artifacts, markets, and new industries"><figcaption><p>Value-to-industry flywheel</p></figcaption></figure>
 
 ### Value
 

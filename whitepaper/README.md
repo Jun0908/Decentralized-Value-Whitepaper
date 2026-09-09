@@ -1,6 +1,6 @@
 # Value Decentralization
 
-## A design philosophy and experiment for preventing value judgments from collapsing into one score—and for creating new industries around values that do not yet have markets
+## Independent Values Can Create New Markets and Industries
 
 **Whitepaper / Research Record / Technical Reference**  
 From Independent Values to New Markets and Industries
@@ -13,7 +13,7 @@ From Independent Values to New Markets and Industries
 This whitepaper is not a walkthrough of the demo. It records where the idea of Value Decentralization comes from, how far it has been implemented, and which parts remain future research. The later sections serve as a technical appendix for inspecting the mathematics, schemas, hashes, evaluators, and public Ethereum evidence behind the claims.
 {% endhint %}
 
-![Shared evidence and independent value pools](.gitbook/assets/shared-evidence-value-pools.png)
+<figure><img src=".gitbook/assets/shared-evidence-value-pools.png" alt="Diagram showing one shared evidence layer supporting independent value pools for resilience, efficiency, fairness, and frontier expansion"><figcaption><p>Shared evidence and independent value pools</p></figcaption></figure>
 
 ## Definition
 

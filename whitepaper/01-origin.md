@@ -42,7 +42,7 @@ The change did not come merely from declaring that the environment matters. It c
 
 This made a design space visible that economic value alone could not express.
 
-![From price-only competition to plural value industries](.gitbook/assets/value-axes-create-industries.png)
+<figure><img src=".gitbook/assets/value-axes-create-industries.png" alt="Illustration showing the transition from price-only competition through environmental value to plural value axes and new industries"><figcaption><p>From price-only competition to plural value industries</p></figcaption></figure>
 
 ## 1.3 Two independent values expand the design space
 
